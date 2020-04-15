@@ -42,23 +42,3 @@ harshnative@gmail.com                 with the mail title IMP
 
 or just post down in the comments 
 
-
-
-
-
-
-
-
-
-
-
-TUTORIAL - 
-open the exe file 
-
-read the commands mentioned carefully to operate when the rate entry comes
-all commands given are for the filling under rate entry only 
-
-the token machine is almost infinite looped , but you have to press 0 at least ones per day and note the total sale as its going to vanish  as soon as press next enter 
-
-
-
