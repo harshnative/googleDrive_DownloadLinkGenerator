@@ -12,6 +12,13 @@ you can download and use the exe file , it is 100% virus free don't worry
 
 exe file provided is installable and its completely safe 
 
+how to use -
+1. simply get the shareable link for the file from your google account and paste it in the input box and click on generate - if the link is not converted you will see error ( invalid link )
+
+2. once the link is generated - click on copy to clipboard to easily copy the generated link
+
+3. for generating more links click on reset button and repeat the process 
+
 
 working - their is certain common things in everylink , if we add some stuff and remove some - it can be easily converted to a downloadable link
 
