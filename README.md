@@ -4,6 +4,10 @@ so that the share can directly download the shared file without opening the goog
 
 this is highly useful for webDevelopers - see the advantage section for reference 
 
+
+if the software is not working on your system then some dll files may be missing , please download the vsCode packages from here - https://support.microsoft.com/en-in/help/2977003/the-latest-supported-visual-c-downloads and install then it should run
+
+
 this code is licensed under GPL3.0
 
 you can find the direct executable file under the releases section of github 
